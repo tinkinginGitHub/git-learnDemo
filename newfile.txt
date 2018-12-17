@@ -1,2 +1,3 @@
 This is the second file to test git add command.
 some more in newfile.txt
+add new info to test conflict when try to merge or rebase different branches while modified the same file contents.
