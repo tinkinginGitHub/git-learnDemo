@@ -1,2 +1,2 @@
 test for basic git commands.
-test with fast forward
+test with fast forward,in branch dev
