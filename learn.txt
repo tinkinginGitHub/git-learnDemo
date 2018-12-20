@@ -1,2 +1,3 @@
 test for basic git commands.
 test with fast forward,in branch dev
+test with no-ff 
