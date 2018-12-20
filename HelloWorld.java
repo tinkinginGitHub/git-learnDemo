@@ -7,4 +7,8 @@ public class Helloworld {
            System.out.println("add some more code");
       }
   }
+     static void checkIfZhangsan(String name){
+         if("zhangsan".euqals(name))
+          System.out.println("he is zhang san")
+   }
 }
